@@ -10,6 +10,9 @@ its data from this repository with a single `wget`.
 - `week02/wordlist_ipa.csv`: 7,909 common English words with IPA transcriptions (CMU
   Pronouncing Dictionary via NLTK) and Brown-corpus frequencies; see `week02/README.md`.
 - `week02/week02_practical.ipynb`: the Week 2 practical (student version).
+- `week03/week03_demo.wav` and three fallback recordings (a sentence and two hVd words),
+  all synthetic voices made for this course; see `week03/README.md`.
+- `week03/week03_practical.ipynb`: the Week 3 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
