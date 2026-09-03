@@ -13,6 +13,10 @@ its data from this repository with a single `wget`.
 - `week03/week03_demo.wav` and three fallback recordings (a sentence and two hVd words),
   all synthetic voices made for this course; see `week03/README.md`.
 - `week03/week03_practical.ipynb`: the Week 3 practical (student version).
+- `week04/fallback_i.wav`, `fallback_a.wav`, `fallback_u.wav` (three fallback vowels) and
+  two feature tables (`vowels_mfcc.csv`, `fallback_logmel.csv`), all built from synthetic
+  voices made for this course; see `week04/README.md`.
+- `week04/week04_practical.ipynb`: the Week 4 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
