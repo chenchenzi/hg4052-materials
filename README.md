@@ -17,6 +17,9 @@ its data from this repository with a single `wget`.
   two feature tables (`vowels_mfcc.csv`, `fallback_logmel.csv`), all built from synthetic
   voices made for this course; see `week04/README.md`.
 - `week04/week04_practical.ipynb`: the Week 4 practical (student version).
+- `week05/fallback_digits.zip`: 200 spoken-digit clips by four synthetic voices, in the Free
+  Spoken Digit Dataset's format; the notebook's offline fallback. See `week05/README.md`.
+- `week05/week05_practical.ipynb`: the Week 5 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
