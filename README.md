@@ -20,6 +20,12 @@ its data from this repository with a single `wget`.
 - `week05/fallback_digits.zip`: 200 spoken-digit clips by four synthetic voices, in the Free
   Spoken Digit Dataset's format; the notebook's offline fallback. See `week05/README.md`.
 - `week05/week05_practical.ipynb`: the Week 5 practical (student version).
+- `week06/state_loglik_no_go.csv`, `week06/clips_truth.csv`, `week06/bigram_counts.csv`,
+  `week06/candidates.csv`, `week06/heldout_lines.txt`: the Week 6 practical's data, all synthetic
+  (per-frame state scores for ten "no"/"go" clips, two invented bigram tables, five candidate
+  transcripts). See `week06/README.md`.
+- `week06/ice_cream_trellis.pdf`: the printed sheet for the Week 6 paper stage.
+- `week06/week06_practical.ipynb`: the Week 6 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
