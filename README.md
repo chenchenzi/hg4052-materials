@@ -26,6 +26,10 @@ its data from this repository with a single `wget`.
   transcripts). See `week06/README.md`.
 - `week06/ice_cream_trellis.pdf`: the printed sheet for the Week 6 paper stage.
 - `week06/week06_practical.ipynb`: the Week 6 practical (student version).
+- `week07/hillenbrand1995_vowels.csv`: 1,668 vowel tokens (12 vowels, 139 speakers) from Hillenbrand et
+  al. (1995), via the phonTools R package (BSD 2-Clause; licence text in `week07/README.md`). Real
+  measurements.
+- `week07/week07_practical.ipynb`: the Week 7 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
