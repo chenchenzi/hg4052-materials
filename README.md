@@ -30,6 +30,9 @@ its data from this repository with a single `wget`.
   al. (1995), via the phonTools R package (BSD 2-Clause; licence text in `week07/README.md`). Real
   measurements.
 - `week07/week07_practical.ipynb`: the Week 7 practical (student version).
+- `week08/clean_read.wav`, `week08/fallback_singlish.wav`: two short clips read by a synthetic voice
+  (one clean sentence, one Singlish sentence); see `week08/README.md`.
+- `week08/week08_practical.ipynb`: the Week 8 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
