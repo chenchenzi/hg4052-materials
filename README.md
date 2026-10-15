@@ -33,6 +33,10 @@ its data from this repository with a single `wget`.
 - `week08/clean_read.wav`, `week08/fallback_singlish.wav`: two short clips read by a synthetic voice
   (one clean sentence, one Singlish sentence); see `week08/README.md`.
 - `week08/week08_practical.ipynb`: the Week 8 practical (student version).
+- `week09/class_results.csv`, `week09/class_clips.zip`: 38 real clips from Mozilla Common Voice (CC0; Singaporean
+  and United States English accents, as reported by the speakers) with transcripts from two Whisper models;
+  `week09/align_clip.wav` + `align_clip.TextGrid`: one clip aligned with the Montreal Forced Aligner. See `week09/README.md`.
+- `week09/week09_practical.ipynb`: the Week 9 practical (student version).
 
 Instructor: Chenzi Xu (chenzi.xu@ntu.edu.sg)
 
